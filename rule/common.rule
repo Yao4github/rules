@@ -1,4 +1,4 @@
 payload:
- - IP-CIDR,110.238.77.204/32,no-resolve
- - IP-CIDR,159.138.174.0/32,no-resolve
+ - IP-CIDR,110.238.77.204/32
+ - IP-CIDR,159.138.174.0/32
  - DOMAIN-SUFFIX,yo.co.ug
